@@ -1,0 +1,152 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com.br/schemas/sitemap-video/1.1">
+	
+	<url>
+		<loc>http://www.thesailorphotographer.com/</loc>
+		<changefreq>monthly</changefreq>
+		<lastmod>2013-08-27T23:01:14Z</lastmod>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://www.thesailorphotographer.com/People</loc>
+		<changefreq>monthly</changefreq>
+		<lastmod>2013-08-11T17:16:14Z</lastmod>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://www.thesailorphotographer.com/About-me</loc>
+		<changefreq>monthly</changefreq>
+		<lastmod>2013-07-17T11:57:14Z</lastmod>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://www.thesailorphotographer.com/404</loc>
+		<changefreq>monthly</changefreq>
+		<lastmod>2013-08-22T11:35:14Z</lastmod>
+		<priority>1.0</priority>
+	</url>	
+	<url>
+		<loc>http://www.thesailorphotographer.com</loc>
+		<image:image>
+			<image:loc>http://www.thesailorphotographer.com/Img/Landscape/Lago-Cabo-Frio-RJ.jpg</image:loc>
+			<image:caption>Lake view at Avenue dos Pescadores. Cabo Frio, Rio de Janeiro</image:caption>
+			<image:title>Lake view at Avenue dos Pescadores. Cabo Frio, Rio de Janeiro</image:title>
+			<image:geo_location>Cabo Frio, Rio de Janeiro</image:geo_location>
+		</image:image>
+
+		<image:image>
+			<image:loc>http://www.thesailorphotographer.com/Img/Landscape/Viaduto-do-Cha.jpg</image:loc>
+			<image:caption>Photo of Viaduto do Chá. Vale do Anhangabaú, São Paulo</image:caption>
+			<image:title>Photo of Viaduto do Chá. Vale do Anhangabaú, São Paulo</image:title>
+			<image:geo_location>São Paulo, Brazil</image:geo_location>
+		</image:image>
+
+		<image:image>
+			<image:loc>http://www.thesailorphotographer.com/Img/Landscape/Sunbeams.jpg</image:loc>
+			<image:caption>Photo of Ibirapuera Park. Moema, São Paulo</image:caption>
+			<image:title>Photo of Ibirapuera Park. Moema, São Paulo</image:title>
+			<image:geo_location>São Paulo, Brazil</image:geo_location>
+		</image:image>	
+
+		<image:image>
+			<image:loc>http://www.thesailorphotographer.com/Img/Landscape/Sky-Windows.jpg</image:loc>
+			<image:caption>A perfect Sky at the Hotel in República, São Paulo</image:caption>
+			<image:title>A perfect Sky at the Hotel in República, São Paulo</image:title>
+			<image:geo_location>São Paulo, Brazil</image:geo_location>
+		</image:image>		
+
+		<image:image>
+			<image:loc>http://www.thesailorphotographer.com/Img/Landscape/Sky-Street-View.jpg</image:loc>
+			<image:caption>View from the top of the district Cidade Dutra. Interlagos, São Paulo</image:caption>
+			<image:title>View from the top of the district Cidade Dutra. Interlagos, São Paulo</image:title>
+			<image:geo_location>São Paulo, Brazil</image:geo_location>
+		</image:image>
+
+		<image:image>
+			<image:loc>http://www.thesailorphotographer.com/Img/Landscape/Sunset-Villa-Lobos.jpg</image:loc>
+			<image:caption>Sunset Villa Lobos Park. Villa Lobos, São Paulo</image:caption>
+			<image:title>Sunset Villa Lobos Park. Villa Lobos, São Paulo</image:title>
+			<image:geo_location>São Paulo, Brazil</image:geo_location>
+		</image:image>
+
+		<image:image>
+			<image:loc>http://www.thesailorphotographer.com/Img/Landscape/Cidade-Dutra-SP.jpg</image:loc>
+			<image:caption>View from the top of the district Cidade Dutra. Interlagos, Sao Paulo</image:caption>
+			<image:title>View from the top of the district Cidade Dutra. Interlagos, Sao Paulo</image:title>
+			<image:geo_location>São Paulo, Brazil</image:geo_location>
+		</image:image>
+
+		<image:image>
+			<image:loc>http://www.thesailorphotographer.com/Img/Landscape/Convento-Penha-ES.jpg</image:loc>
+			<image:caption>Top of Convento da Penha. Vitória, Espírito Santo</image:caption>
+			<image:title>Top of Convento da Penha. Vitória, Espírito Santo</image:title>
+			<image:geo_location>Espírito Santo, Brazil</image:geo_location>
+		</image:image>
+
+		<image:image>
+			<image:loc>http://www.thesailorphotographer.com/Img/Landscape/Moon.jpg</image:loc>
+			<image:caption>Photo of Moon</image:caption>
+			<image:title>Photo of Moon</image:title>
+			<image:geo_location>São Paulo, Brazil</image:geo_location>
+		</image:image>
+	</url>
+
+	<url>
+		<loc>http://www.thesailorphotographer.com/People</loc>
+		<image:image>
+			<image:loc>http://www.thesailorphotographer.com/Img/People/Rustyness-Canon.jpg</image:loc>
+			<image:caption>Rustyness Canon Camera, Photoshop art by Rustyness</image:caption>
+			<image:title>Rustyness Canon Camera, Photoshop art by Rustyness</image:title>
+			<image:geo_location>São Paulo, Brazil</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.thesailorphotographer.com/Img/People/Rustyness-Cosmic.jpg</image:loc>
+			<image:caption>Rustyness Dust Cosmic, Photoshop art by Rustyness</image:caption>
+			<image:title>Rustyness Dust Cosmic, Photoshop art by Rustyness</image:title>
+			<image:geo_location>São Paulo, Brazil</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.thesailorphotographer.com/Img/People/Love-Flower.jpg</image:loc>
+			<image:caption>The Love of Flower</image:caption>
+			<image:title>The Love of Flower</image:title>
+			<image:geo_location>São Paulo, Brazil</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.thesailorphotographer.com/Img/People/Nikon-Photoshop.jpg</image:loc>
+			<image:caption>William's Nikon Camera Photo, Photoshop art by Rustyness</image:caption>
+			<image:title>William's Nikon Camera Photo, Photoshop art by Rustyness</image:title>
+			<image:geo_location>São Paulo, Brazil</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.thesailorphotographer.com/Img/People/The-Riddler.jpg</image:loc>
+			<image:caption>Rustyness as The Riddler - Body Art Roberto Carvalho</image:caption>
+			<image:title>Rustyness as The Riddler - Body Art Roberto Carvalho</image:title>
+			<image:geo_location>São Paulo, Brazil</image:geo_location>
+		</image:image>		
+		<image:image>
+			<image:loc>http://www.thesailorphotographer.com/Img/People/Rustyness-Dark-Art.jpg</image:loc>
+			<image:caption>Rustyness Dark Art, Photoshop art by Rustyness</image:caption>
+			<image:title>Rustyness Dark Art, Photoshop art by Rustyness</image:title>
+			<image:geo_location>São Paulo, Brazil</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.thesailorphotographer.com/Img/People/Card-Game.jpg</image:loc>
+			<image:caption>Mario playing with card</image:caption>
+			<image:title>Mario playing with card</image:title>
+			<image:geo_location>São Paulo, Brazil</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.thesailorphotographer.com/Img/People/Manifestation-Brazil-SP.jpg</image:loc>
+			<image:caption>Manifestation in Brazil. Catedral da Sé - São Paulo</image:caption>
+			<image:title>Manifestation in Brazil. Catedral da Sé - São Paulo</image:title>
+			<image:geo_location>São Paulo, Brazil</image:geo_location>
+		</image:image>
+		<image:image>
+			<image:loc>http://www.thesailorphotographer.com/Img/People/Brazil-Manifestation-Old-Woman.jpg</image:loc>
+			<image:caption>Old Woman at the Manifestation in Brazil. São Paulo</image:caption>
+			<image:title>Old Woman at the Manifestation in Brazil. São Paulo</image:title>
+			<image:geo_location>São Paulo, Brazil</image:geo_location>
+		</image:image>
+	</url>
+</urlset>
